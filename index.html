@@ -13,10 +13,25 @@
   <script>
     window.$docsify = {
       coverpage: true,
-      loadNavbar: true
+      onlyCover: true,
+      loadNavbar: true,
+      name:'靓仔笔记',
+      repo:'https://github.com/code-anan/doc.weilong98.com',
+      loadSidebar: true,
+      subMaxLevel: 6,
+      search: {
+        paths: 'auto',
+        placeholder: {
+          '/': '搜索'
+        },
+        noData: {
+          '/': '找不到结果'
+        },
+      }
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
 </body>
 </html>
