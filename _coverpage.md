@@ -1,5 +1,5 @@
 
-<img width="180px" style="border-radius: 50%" bor src="https://fastly.jsdelivr.net/gh/code-anan/image/newavator.jpg">
+<img width="180px" style="border-radius: 50%" bor src="https://gcore.jsdelivr.net/gh/code-anan/image/鲨鱼头像.jpg">
 
 # LWL
 
